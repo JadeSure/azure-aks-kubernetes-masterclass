@@ -1,0 +1,7 @@
+{
+  "tenantId": "b985d900-a4c4-4ea6-9e09-8d1167bac273",
+  "subscriptionId": "c4c2e681-0156-457e-b1f2-88020d2efe5c",
+  "resourceGroup": "petlover-AKS", 
+  "useManagedIdentityExtension": true,
+  "userAssignedIdentityID": "cc69d3df-0680-4e72-9a58-33bc57b09587"
+}
